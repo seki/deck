@@ -15,4 +15,5 @@ while line = gets
     sub_total = 0
   end
 end
+puts sub_total if sub_total > 0
 puts "total: #{total}"
